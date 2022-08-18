@@ -1,0 +1,30 @@
+{
+  "name": "@jser6/vc-image",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lib/index.umd.js",
+  "module": "lib/index.es.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "vue",
+    "cache",
+    "image",
+    "vc-image"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "@vue/babel-preset-app": "^5.0.8",
+    "rollup": "^2.78.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-delete": "^2.0.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-vue": "^5.1.9",
+    "vue-template-compiler": "^2.7.8"
+  }
+}
