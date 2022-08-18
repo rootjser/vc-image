@@ -1,12 +1,13 @@
 {
   "name": "@jser6/vc-image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/index.umd.js",
   "module": "lib/index.es.js",
   "scripts": {
     "build": "rollup -c"
   },
+  "homepage": "https://github.com/rootjser/vc-image",
   "keywords": [
     "vue",
     "cache",
