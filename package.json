@@ -1,6 +1,6 @@
 {
   "name": "@jser6/vc-image",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "lib/index.umd.js",
   "module": "lib/index.es.js",
