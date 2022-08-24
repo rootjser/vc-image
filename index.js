@@ -44,4 +44,6 @@ vueCacheImage.install = function (Vue) {
   Vue.component("vc-image", vueCacheImage);
 };
 
+vueCacheImage.cacheBlobMap = cacheBlobMap;
+
 export default vueCacheImage;
